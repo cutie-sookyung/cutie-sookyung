@@ -1,6 +1,6 @@
 # 안녕하세요! 👋 이수경입니다 🐱
 
-## 🌈 프론트엔드 개발자 | NestJS & React 엔thusiast | UI/UX 러버
+## 🌈 프론트엔드 개발자 | NestJS & React Enthusiast | UI/UX 러버
 
 ### 🚀 저는 이런 사람이에요:
 - 🎨 사용자 친화적인 웹 경험을 만드는 것을 좋아해요
